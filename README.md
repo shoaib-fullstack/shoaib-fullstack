@@ -45,9 +45,9 @@ Architecting a multi-tenant Point of Sale & Transaction Management engine using 
 
 Let's discuss how I can add value to your enterprise infrastructure or development team:
 
-* 💼 **LinkedIn:** (https://www.linkedin.com/in/shoaib-anwar-69a148265/)
-* 🚀 **Upwork Profile:** [https://www.upwork.com/freelancers/~01290542354b5f8747?mp_source=share]
-* 📧 **Email:** `shoaib_cr7@hotmail.com`
+- 💼 **LinkedIn:** [linkedin.com/in/shoaib-anwar-69a148265](https://www.linkedin.com/in/shoaib-anwar-69a148265/)
+- 🚀 **Upwork Profile:** [View My Freelance Profile](https://www.upwork.com/freelancers/~01290542354b5f8747?mp_source=share)
+- 📧 **Email:** `shoaib_cr7@hotmail.com`
 
 ---
 *“Turning complex data structures into seamless user experiences.”*
