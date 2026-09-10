@@ -1,6 +1,6 @@
 # Hi there, I'm Shoaib! 👋 
 
-I am a results-driven **Senior Full Stack & Oracle APEX Consultant** dedicated to building scalable, secure, and data-centric enterprise web applications. With over 6 years of proven industry experience, I bridge the gap between complex relational database architecture and sleek, modern user interfaces.
+I am a results-driven **Senior Full Stack & Oracle APEX Consultant** dedicated to building scalable, secure, and data-centric enterprise web applications. With over 8 years of proven industry experience, I bridge the gap between complex relational database architecture and sleek, modern user interfaces.
 
 - 💼 **Available for:** Full-time roles, premium freelance contracts, and enterprise consulting.
 - 🚀 **Core Focus:** Custom Oracle APEX applications, database optimization, and modern web integrations.
